@@ -8,9 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
 </head>
 
 <body>
@@ -32,11 +30,15 @@
                                 <a class="nav-link active" href="index.php">Início</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="institucional.php">Institucional</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="cursos.php">Cursos Disponíveis</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="institucional.php">Institucional</a>
+                                <a class="nav-link" href="contato.php">Contato</a>
                             </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -65,6 +67,11 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Proximo</span>
         </button>
+    </div>
+    <div class="text-center futurovideo">
+    <a href="imagemquesubstituiovideo.jpeg" data-fancybox data-caption="Single image">
+        <img src="imagemquesubstituiovideo.jpeg" />
+    </a>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"

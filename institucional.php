@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>INSTITUCIONAL</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -26,14 +26,17 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                                <a class="nav-link" href="index.php">Início</a>
+                            </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="index.php">Início</a>
+                                <a class="nav-link active" href="institucional.php">Institucional</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="cursos.php">Cursos Disponíveis</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="institucional.php">Institucional</a>
+                                <a class="nav-link" href="contato.php">Contato</a>
                             </li>
                         </ul>
                     </div>
@@ -43,7 +46,7 @@
     </div>
     <div class="container">
         <div class="row borda">
-            <div class="col-6 text-center">
+            <div class="col-7 text-left">
                 <h3>Bem vindo ao colégio NAIARA BAVARESCO DE SOUZA</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis vel metus euismod vulputate.
                     Nunc ornare ex id metus viverra efficitur. Vestibulum lacinia sem non ullamcorper mollis. Nulla
@@ -80,12 +83,12 @@
                     Donec in mauris ac dui auctor eleifend. In hac habitasse platea dictumst. Nulla vehicula sed mauris
                     euismod aliquet. Cras faucibus sapien id condimentum ultrices. Donec et porttitor dui.
                 </p>
-               
+
 
             </div>
             <div class="col-6 text-center">
-                   <img src="" alt=""> 
-                    </div>
+                <img src="" alt="">
+            </div>
         </div>
     </div>
 

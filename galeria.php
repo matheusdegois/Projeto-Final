@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CONTATO</title>
+    <title>CEEP</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -36,22 +36,16 @@
                                 <a class="nav-link" href="cursos.php">Cursos Disponíveis</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="contato.php">Contato</a>
+                                <a class="nav-link" href="contato.php">Contato</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="galeria.php">Galeria</a>
+                                <a class="nav-link active" href="galeria.php">Galeria</a>
                             </li>
+
                         </ul>
                     </div>
                 </div>
             </nav>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row borda">
-            <div class="col-6">
-                <h3>FALE CONOSCO</h3>
-            </div>
         </div>
     </div>
 
@@ -63,6 +57,7 @@
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
         </script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
 </body>
 
 </html>

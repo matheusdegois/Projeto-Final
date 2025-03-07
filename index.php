@@ -38,6 +38,9 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="contato.php">Contato</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="galeria.php">Galeria</a>
+                            </li>
                             
                         </ul>
                     </div>

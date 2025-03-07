@@ -26,7 +26,7 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav ms-auto">
-                        <li class="nav-item">
+                            <li class="nav-item">
                                 <a class="nav-link" href="index.php">Início</a>
                             </li>
                             <li class="nav-item">
@@ -38,13 +38,24 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="contato.php">Contato</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="galeria.php">Galeria</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
             </nav>
         </div>
     </div>
-    
+    <div class="container">
+        <div class="row borda">
+            <div class="col-12">
+
+            </div>
+        </div>
+
+    </div>
+
     <footer class="text-center">
         <p>&copy; 2025 Cursos Técnicos. Todos os direitos reservados.</p>
     </footer>

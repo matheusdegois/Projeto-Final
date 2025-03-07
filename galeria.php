@@ -48,6 +48,8 @@
             </nav>
         </div>
     </div>
+    
+
 
     <footer class="text-center">
         <p>&copy; 2025 Cursos Técnicos. Todos os direitos reservados.</p>

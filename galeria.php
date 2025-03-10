@@ -49,38 +49,38 @@
         </div>
     </div>
     <div class="row borda">
-        <div class="col-4 text-center">
+        <div class="col-4 text-center card" >
             <a href="imagem1.jpeg" data-fancybox data-caption="Single image">
                 <img class="ImagemGaleria" src="imagem1.jpeg" />
             </a>
         </div>
 
-        <div class="col-4 text-center">
+        <div class="col-4 text-center card" >
             <a href="imagem2.jpeg" data-fancybox data-caption="Single image">
                 <img class="ImagemGaleria" src="imagem2.jpeg" />
             </a>
         </div>
 
-        <div class="col-4 text-center">
+        <div class="col-4 text-center card" >
             <a href="imagem3.png" data-fancybox data-caption="Single image">
                 <img class="ImagemGaleria" src="imagem3.png" />
             </a>
         </div>
     </div>
     <div class="row borda">
-        <div class="col-4 text-center">
+        <div class="col-4 text-center card" >
             <a href="imagem1.jpeg" data-fancybox data-caption="Single image">
                 <img class="ImagemGaleria" src="imagem1.jpeg" />
             </a>
         </div>
 
-        <div class="col-4 text-center">
+        <div class="col-4 text-center card" >
             <a href="imagem2.jpeg" data-fancybox data-caption="Single image">
                 <img class="ImagemGaleria" src="imagem2.jpeg" />
             </a>
         </div>
 
-        <div class="col-4 text-center">
+        <div class="col-4 text-center card" >
             <a href="imagem3.png" data-fancybox data-caption="Single image">
                 <img class="ImagemGaleria" src="imagem3.png" />
             </a>

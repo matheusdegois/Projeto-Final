@@ -11,43 +11,42 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
 </head>
 
-<body>
-    <div class="container fundo">
-        <div class="row borda">
-            <div class="col-4">
-                <img src="CEEP1.png" alt="" class="d-block w-100 logo">
-            </div>
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div class="container-fluid">
-                    <a class="navbar-brand" href="#">NAIARA BABARESCO DE SOUZA</a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarNav">
-                        <ul class="navbar-nav ms-auto">
-                            <li class="nav-item">
-                                <a class="nav-link active" href="index.php">Início</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="institucional.php">Institucional</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="cursos.php">Cursos Disponíveis</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="contato.php">Contato</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="galeria.php">Galeria</a>
-                            </li>
-                            
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-        </div>
+<body class="body">
+
+
+    <div class="col-4">
+        <img src="CEEP1.png" alt="" class="d-block w-100 logo">
     </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">NAIARA BABARESCO DE SOUZA</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.php">Início</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="institucional.php">Institucional</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="cursos.php">Cursos Disponíveis</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contato.php">Contato</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="galeria.php">Galeria</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -72,9 +71,9 @@
         </button>
     </div>
     <div class="text-center futurovideo">
-    <a href="imagemquesubstituiovideo.jpeg" data-fancybox data-caption="Single image">
-        <img src="imagemquesubstituiovideo.jpeg" />
-    </a>
+        <a href="imagemquesubstituiovideo.jpeg" data-fancybox data-caption="Single image">
+            <img src="imagemquesubstituiovideo.jpeg" />
+        </a>
     </div>
 
     <footer class="text-center">

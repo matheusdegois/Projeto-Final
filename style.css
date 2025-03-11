@@ -1,31 +1,28 @@
-.body {
+.fundo {
     background-color: linear-gradient(45deg, cyan, rgb(101, 60, 168));
 }
 
 .logo {
     padding: 0px !important;
-    height: 100%;
+    height: 500px;
 }
 
 .Imagem {
-    height: 800px;
+    height: 500px;
     width: 100%;
     padding: 1px !important;
 }
 
 .borda {
     border: 1px solid white;
-    
 }
 
 .futurovideo {
-    height: 200px;
+    height: 900px;
     width: 200px;
-    margin-top: 1px !important;
 }
 
 .ImagemGaleria {
     height: 300px;
     width: 300px;
-    margin-top: 1px !important;
 }

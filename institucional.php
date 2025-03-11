@@ -12,10 +12,11 @@
 </head>
 
 <body>
-    <div class="container fundo">
-        <div class="row borda">
-            <div class="col-4">
-                <img src="CEEP1.png" alt="" class="d-block w-100 logo">
+   
+            <div class="fundo">
+                <a href="index.php">
+                <img src="CEEP1.png" alt="" class="d-block logo">
+                </a>
             </div>
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid">
@@ -45,11 +46,10 @@
                     </div>
                 </div>
             </nav>
-        </div>
-    </div>
+        
     <div class="container">
         <div class="row borda">
-            <div class="col-7 text-left">
+            <div class="col-12 text-left">
                 <h3>Bem vindo ao colégio NAIARA BAVARESCO DE SOUZA</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis vel metus euismod vulputate.
                     Nunc ornare ex id metus viverra efficitur. Vestibulum lacinia sem non ullamcorper mollis. Nulla
@@ -88,9 +88,6 @@
                 </p>
 
 
-            </div>
-            <div class="col-6 text-center">
-                <img src="" alt="">
             </div>
         </div>
     </div>

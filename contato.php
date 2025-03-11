@@ -12,41 +12,40 @@
 </head>
 
 <body>
-    <div class="container fundo">
-        <div class="row borda">
-            <div class="col-4">
-                <img src="CEEP1.png" alt="" class="d-block w-100 logo">
-            </div>
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div class="container-fluid">
-                    <a class="navbar-brand" href="#">NAIARA BABARESCO DE SOUZA</a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarNav">
-                        <ul class="navbar-nav ms-auto">
-                            <li class="nav-item">
-                                <a class="nav-link" href="index.php">Início</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="institucional.php">Institucional</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="cursos.php">Cursos Disponíveis</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" href="contato.php">Contato</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="galeria.php">Galeria</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-        </div>
+    <div class="fundo">
+        <a href="index.php">
+            <img src="CEEP1.png" alt="" class="d-block logo">
+        </a>
     </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">NAIARA BABARESCO DE SOUZA</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.php">Início</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="institucional.php">Institucional</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="cursos.php">Cursos Disponíveis</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="contato.php">Contato</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="galeria.php">Galeria</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
     <div class="container">
         <div class="row borda">
             <div class="col-6">

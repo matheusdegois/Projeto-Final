@@ -11,11 +11,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
 </head>
 
-<body class="body">
-
-
-    <div class="col-4">
-        <img src="CEEP1.png" alt="" class="d-block w-100 logo">
+<body>
+    <div class="fundo">
+        <a href="index.php">
+            <img src="CEEP1.png" alt="" class="d-block  logo">
+        </a>
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -47,8 +47,8 @@
         </div>
     </nav>
 
-    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
+    <div id="carouselExampleControls Imagem" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner Imagem">
             <div class="carousel-item active">
                 <img src="imagemalunos.webp" class="d-block w-100 Imagem" alt="...">
             </div>
@@ -70,11 +70,8 @@
             <span class="visually-hidden">Proximo</span>
         </button>
     </div>
-    <div class="text-center futurovideo">
-        <a href="imagemquesubstituiovideo.jpeg" data-fancybox data-caption="Single image">
-            <img src="imagemquesubstituiovideo.jpeg" />
-        </a>
-    </div>
+
+    <hr>
 
     <footer class="text-center">
         <p>&copy; 2025 Cursos Técnicos. Todos os direitos reservados.</p>

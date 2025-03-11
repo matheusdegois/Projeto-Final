@@ -129,7 +129,7 @@
 
 
     <footer class="text-center">
-        <p>&copy; 2025 Cursos Técnicos. Todos os direitos reservados.</p>
+    <p><b>&copy; 2025 Cursos Técnicos. Todos os direitos reservados.</b></p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"

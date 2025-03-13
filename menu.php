@@ -15,14 +15,14 @@
 <div class="row">
         <div class="col-3">
             <a href="index.php">
-                <img src="CEEP2.jpg" alt="" class="d-block w-100 h- logo ">
+                <img src="CEEP2.png" alt="" class="d-block w-100 h- logo ">
             </a>
         </div>
         <div class="col-6">
             <h1>CEEP</h1>
         </div>
         <div class="col-3">
-            <img src="paranabrasao.jpg" alt="" class="d-block w-100 logo">
+            <img src="paranabrasao.png" alt="" class="d-block w-100 logo">
 
         </div>
     </div>

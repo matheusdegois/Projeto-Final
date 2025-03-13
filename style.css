@@ -3,14 +3,13 @@
 }
 
 .logo {
-    padding: 0px !important;
-    height: 500px;
+    width: 5px;
+    height: 5px;
 }
 
 .Imagem {
-    height: 500px;
+    height: 100px;
     width: 100%;
-    padding: 1px !important;
 }
 
 .borda {

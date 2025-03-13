@@ -12,10 +12,19 @@
 </head>
 
 <body>
-    <div class="fundo">
-        <a href="index.php">
-            <img src="CEEP1.png" alt="" class="d-block  logo">
-        </a>
+    <div class="row">
+        <div class="col-3">
+            <a href="index.php">
+                <img src="CEEP2.jpg" alt="" class="d-block w-100 h- logo ">
+            </a>
+        </div>
+        <div class="col-6">
+            <h1>CEEP</h1>
+        </div>
+        <div class="col-3">
+            <img src="paranabrasao.jpg" alt="" class="d-block w-100 logo">
+
+        </div>
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -74,7 +83,7 @@
     <hr>
 
     <footer class="text-center">
-    <p><b>&copy; 2025 Cursos Técnicos. Todos os direitos reservados.</b></p>
+        <p><b>&copy; 2025 Cursos Técnicos. Todos os direitos reservados.</b></p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"

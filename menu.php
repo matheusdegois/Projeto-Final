@@ -12,10 +12,19 @@
 </head>
 
 <body>
-    <div class="fundo">
-        <a href="index.php">
-            <img src="CEEP1.png" alt="" class="d-block ">
-        </a>
+<div class="row">
+        <div class="col-3">
+            <a href="index.php">
+                <img src="CEEP2.jpg" alt="" class="d-block w-100 h- logo ">
+            </a>
+        </div>
+        <div class="col-6">
+            <h1>CEEP</h1>
+        </div>
+        <div class="col-3">
+            <img src="paranabrasao.jpg" alt="" class="d-block w-100 logo">
+
+        </div>
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -27,13 +36,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Início</a>
+                        <a class="nav-link active" href="index.php">Início</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="institucional.php">Institucional</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="cursos.php">Cursos Disponíveis</a>
+                        <a class="nav-link" href="cursos.php">Cursos Disponíveis</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contato.php">Contato</a>
@@ -41,31 +50,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="galeria.php">Galeria</a>
                     </li>
+
                 </ul>
             </div>
         </div>
     </nav>
-
-    <div class="container">
-        <div class="row borda">
-            <div class="col-12">
-
-            </div>
-        </div>
-
-    </div>
-
-
-
-
-    <footer class="text-center">
-    <p><b>&copy; 2025 Cursos Técnicos. Todos os direitos reservados.</b></p>
-    </footer>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
-        </script>
-    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
-</body>
-
-</html>
+  
+    </body>
+    </html>

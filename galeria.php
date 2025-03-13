@@ -14,7 +14,7 @@
 <body>
     <div class="fundo">
         <a href="index.php">
-            <img src="CEEP1.png" alt="" class="d-block logo">
+            <img src="CEEP1.png" alt="" class="d-block ">
         </a>
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">

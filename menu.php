@@ -12,17 +12,18 @@
 </head>
 
 <body>
-<div class="row">
+<div class="row bg-success bg-gradient">
         <div class="col-3">
             <a href="index.php">
-                <img src="CEEP2.png" alt="" class="d-block w-100 h- logo ">
+                <img src="ceep2.png" alt="" class="d-block w-50">
             </a>
         </div>
-        <div class="col-6">
-            <h1>CEEP</h1>
+        <div class="col-6 text-center align-items-center d-flex flex-column justify-content-center">
+            <h1>Colégio especializado em </h1>
+            <h1>formação técnica e média</h1>
         </div>
         <div class="col-3">
-            <img src="paranabrasao.png" alt="" class="d-block w-100 logo">
+            <img src="paranabrasao.png" alt="" class="w-50 rounded float-right">
 
         </div>
     </div>
@@ -52,6 +53,7 @@
                     </li>
 
                 </ul>
+                <hr>
             </div>
         </div>
     </nav>

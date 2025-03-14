@@ -14,7 +14,7 @@
 <body>
 
     <?php
-    include("conexao.php");
+    include("menu.php");
     ?>
 
 
@@ -22,7 +22,7 @@
         <div class="row borda">
             <div class="col-12 text-justify">
                 <br>
-                <h3 class="text-center">Bem vindo ao colégio NAIARA BAVARESCO DE SOUZA</h3>
+                <h3 class="text-center">História do colégio CEEP-NAIARA BAVARESCO DE SOUZA</h3>
                 <br>
                 <p>No ano de 2008, dez municípios do Paraná foram contemplados para receber uma unidade de Centro
                     Estadual de Educação Profissional – CEEP. Já haviam cinco unidades no estado e a partir de 2008 a
@@ -97,8 +97,6 @@
                     Profissionalizante ofertamos: Técnico em Agricultura, Técnico em Administração, Técnico em
                     Desenvolvimento de Sistemas e Formação de Docentes.
                 </p>
-
-
             </div>
         </div>
     </div>

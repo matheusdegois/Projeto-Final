@@ -6,8 +6,8 @@
             </a>
         </div>
         <div class="col-6 text-center align-items-center d-flex flex-column justify-content-center">
-            <h1>Colégio especializado em </h1>
-            <h1>formação técnica e média</h1>
+            <h1 id="titulo">Colégio especializado em </h1>
+            <h1 >formação técnica e média</h1>
         </div>
         <div class="col-3">
             <img src="paranabrasao.png" alt="" class="w-50 rounded float-right">

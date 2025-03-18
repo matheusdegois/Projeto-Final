@@ -9,7 +9,7 @@
 }
 
 .borda {
-    border: 10px solid white;
+    border: 10px solid rgb(241, 16, 16);
 }
 
 .futurovideo {
@@ -23,6 +23,8 @@
 }
 
 .titulo {
-    font-family: Open Sans;
+    font-family: Open Sans !important;
 }
+
+
 

@@ -29,7 +29,7 @@
     <div class="container">
        
         <div class="contact-info">
-            <h2>Informações de Contato</h2>
+            <h2 class="texto_formulario">Informações de Contato</h2>
             <p><strong>Endereço:</strong> R. Cel. Guilherme de Paula, 1937-1967 - Centro, Laranjeiras do Sul - PR, 85301-404</p>
             <p><strong>Telefone:</strong> (11) 1234-5678</p>
             <p><strong>E-mail:</strong><a href="mailto:ljsceeplaranjeiras@seed.pr.gov.br"> ljsceeplaranjeiras@seed.pr.gov.br</a></p>
@@ -37,7 +37,7 @@
 
         
         <div class="contact-form">
-            <h2>Envie sua Mensagem</h2>
+            <h2 class="texto_formulario">Envie sua Mensagem</h2>
             <form action="#" method="POST">
                 <label for="nome">Nome:</label>
                 <input type="text" id="nome" name="nome" required placeholder="Digite seu nome">

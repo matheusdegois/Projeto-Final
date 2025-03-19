@@ -17,6 +17,7 @@
     ?>
 
 
+<hr>
     <div class="row borda">
         <div class="col-4 text-center card">
             <a href="imagem1.jpeg" data-fancybox data-caption="Single image">

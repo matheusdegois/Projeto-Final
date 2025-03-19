@@ -17,12 +17,12 @@
     include("menu.php");
     ?>
 
-
+    <hr>
     <div class="container">
         <div class="row borda">
             <div class="col-12 text-justify">
                 <br>
-                <h3 class="text-center">História do colégio CEEP-NAIARA BAVARESCO DE SOUZA</h3>
+                <h3 class="text-center">História do colégio CEEP-NAIANA BAVARESCO DE SOUZA</h3>
                 <br>
                 <p>No ano de 2008, dez municípios do Paraná foram contemplados para receber uma unidade de Centro
                     Estadual de Educação Profissional – CEEP. Já haviam cinco unidades no estado e a partir de 2008 a

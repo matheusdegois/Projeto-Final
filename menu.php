@@ -1,3 +1,5 @@
+</html>
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -7,12 +9,13 @@
     <title>Meu Site</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="menu.css">
+   
 </head>
 
 <body>
 
 
-    <header class="banner">
+    <div class="banner"  style="background-color: #ff7512;">
         <div class="row">
             <div class="ceep col-2">
                 <a href="index.php">
@@ -24,10 +27,10 @@
                 <h1>formação técnica e média</h1>
             </div>
         </div>
-    </header>
+</div>
 
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

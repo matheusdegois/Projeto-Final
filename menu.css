@@ -1,0 +1,57 @@
+.banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    height: 200px;
+    background-color: #198754; 
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+
+
+.navbar {
+    position: fixed;
+    top: 200px; 
+    left: 0;
+    right: 0;
+    z-index: 999;
+    background-color: #1f1f1f;
+}
+
+
+body {
+    padding-top: 250px; 
+}
+
+
+.navbar-nav {
+    justify-content: center;
+    width: 100%;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 15px; 
+}
+
+
+.ceep img {
+    display: block;
+    margin: 0 auto;
+    max-width: 110%;
+}
+
+
+#titulo {
+    font-size: 1.5rem;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 1.75rem;
+    text-align: center;
+    color: white;
+}

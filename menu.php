@@ -23,8 +23,8 @@
                 </a>
             </div>
             <div class="col-6 text-center align-items-center d-flex flex-column justify-content-center">
-                <h1 id="titulo">Colégio especializado em </h1>
-                <h1>formação técnica e média</h1>
+                <h1>COLÉGIO TÉCNICO</h1>
+                <h1>NAIANA BABARESCO DE SOUZA</h1>
             </div>
         </div>
 </div>

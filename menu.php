@@ -1,5 +1,3 @@
-</html>
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -7,30 +5,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Site</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="menu.css">
-   
+    <script src="rolartela.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">    <link rel="stylesheet" href="menu.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+</body>
+
 </head>
 
 <body>
-
-
-    <div class="banner"  style="background-color: #ff7512;">
+    <div class="banner"  style="background-color: rgb(5, 150, 0);">
         <div class="row">
             <div class="ceep col-2">
                 <a href="index.php">
                     <img src="ceep2.png" alt="Logo CEEP">
                 </a>
             </div>
-            <div class="col-6 text-center align-items-center d-flex flex-column justify-content-center">
-                <h1>COLÉGIO TÉCNICO</h1>
-                <h1>NAIANA BABARESCO DE SOUZA</h1>
+            <div class="col-7 text-center align-items-center d-flex flex-column justify-content-center">
+                <h1 id="titulo"> Centro Estadual de Educação Profissional</h1>
+                <h1 id="titulosub">Professora Naiana Babaresco de Souza</h1>
             </div>
         </div>
 </div>
 
 
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg navbar-dark " style="background-color:rgb(0, 0, 0);">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,8 +41,15 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="index.php">Início</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="institucional.php">Institucional</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Institucional
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="historico.php">Historico</a></li>
+                            <li><a class="dropdown-item" href="visao.php">Visão</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -57,6 +64,10 @@
                     <li class="nav-item">
                         <a class="nav-link" href="contato.php">Contato</a>
                     </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="noticias.php">Notícias</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="galeria.php">Galeria</a>
                     </li>
@@ -65,9 +76,9 @@
         </div>
     </nav>
 
+    
 
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 
 </html>

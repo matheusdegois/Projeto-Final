@@ -20,10 +20,9 @@
             <!-- Card 1 -->
             <div class="col">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Curso 1">
+                    <img src="agricultura.jpg" class="card-img-top" alt="Curso 1">
                     <div class="card-body">
-                        <h5 class="card-title">Curso de Programação</h5>
-                        <p class="card-text">Aprenda a desenvolver aplicações com as principais linguagens de programação.</p>
+                        <h5 class="card-title">Curso de Agricultura</h5>
                     </div>
                 </div>
             </div>
@@ -31,9 +30,9 @@
             <!-- Card 2 -->
             <div class="col">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Curso 2">
+                    <img src="agricultura.jpg" class="card-img-top" alt="Curso 2">
                     <div class="card-body">
-                        <h5 class="card-title">Curso de Design Gráfico</h5>
+                        <h5 class="card-title">Curso de </h5>
                         <p class="card-text">Torne-se um especialista em ferramentas de design como Photoshop e Illustrator.</p>
                     </div>
                 </div>
@@ -42,7 +41,7 @@
             <!-- Card 3 -->
             <div class="col">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Curso 3">
+                    <img src="agricultura.jpg" class="card-img-top" alt="Curso 3">
                     <div class="card-body">
                         <h5 class="card-title">Curso de Marketing Digital</h5>
                         <p class="card-text">Domine estratégias de marketing online e impulsione negócios na web.</p>
@@ -53,7 +52,7 @@
             <!-- Card 4 -->
             <div class="col">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Curso 4">
+                    <img src="agricultura.jpg" class="card-img-top" alt="Curso 4">
                     <div class="card-body">
                         <h5 class="card-title">Curso de Gestão de Projetos</h5>
                         <p class="card-text">Aprenda as melhores práticas para planejar e gerenciar projetos de sucesso.</p>
@@ -64,7 +63,7 @@
             <!-- Card 5 -->
             <div class="col">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Curso 5">
+                    <img src="agricultura.jpg" class="card-img-top" alt="Curso 5">
                     <div class="card-body">
                         <h5 class="card-title">Curso de Fotografia</h5>
                         <p class="card-text">Aprenda técnicas de fotografia para capturar imagens incríveis.</p>
@@ -75,7 +74,7 @@
             <!-- Card 6 -->
             <div class="col">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Curso 6">
+                    <img src="agricultura.jpg" class="card-img-top" alt="Curso 6">
                     <div class="card-body">
                         <h5 class="card-title">Curso de Redação e Produção de Conteúdo</h5>
                         <p class="card-text">Desenvolva habilidades de escrita e produção de conteúdo para web.</p>

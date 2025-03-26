@@ -18,30 +18,7 @@
 
     <?php include("menu.php"); ?>
 
-    <div class="container-fluid">
-        <div class="row">
-          
-            <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-light sidebar">
-                <div class="position-sticky">
-                    <ul class="nav flex-column">
-                        <li class="nav-item">
-                            <a class="nav-link active" href="institucional.php">
-                                Histórico
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="missao.php">
-                                Missão
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="visao.php">
-                                Visão
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+    
 
           
             <div class="container mt-5">

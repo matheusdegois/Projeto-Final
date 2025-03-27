@@ -48,7 +48,8 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="historico.php">Historico</a></li>
-                            <li><a class="dropdown-item" href="visao.php">Visão</a></li>
+                            <li><a class="dropdown-item" href="objetivo.php">Objetivo</a></li>
+                            <li><a class="dropdown-item" href="reitoria.php">Reitoria</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">

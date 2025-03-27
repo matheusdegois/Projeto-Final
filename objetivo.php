@@ -22,7 +22,6 @@
     <br>
     <h2 class="text-center">OBJETIVO</h2>
     <br>
-
     <div class="row">
         <div class="col-12">
             <h3 class="text-center">PROJETO POLÍTICO DO CEEP</h3>
@@ -38,6 +37,7 @@
     </div>
     </div>
 
+    
     <?php include("footer.php"); ?>
 
 

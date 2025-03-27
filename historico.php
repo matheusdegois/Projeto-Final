@@ -132,6 +132,7 @@
                         Profissionalizante ofertamos: Técnico em Agricultura, Técnico em Administração, Técnico em
                         Desenvolvimento de Sistemas e Formação de Docentes.
                     </p>
+                    <img src="download.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>

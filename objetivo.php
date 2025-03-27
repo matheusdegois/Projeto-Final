@@ -17,50 +17,24 @@
 <body>
 
     <?php include("menu.php"); ?>
+    
+    <div class="container">
+    <br>
+    <h2 class="text-center">OBJETIVO</h2>
+    <br>
 
-
-
-
-    <div class="container mb-6">
-        <div class="row">
-            <div class="col-12">
-
-                <div class="bordas p-4">
-                    <p class="text-justify">
-                        Ser reconhecida como uma Instituição de Ensino Superior de referência regional por meio de:
-                    </p>
-
-
-
-                    <p>– Excelência e comprometimento do corpo docente;</p>
-
-                    <p>– Qualidade do ensino presencial oferecido;</p>
-
-                    <p>– Bem-estar e satisfação da comunidade acadêmica interna;</p>
-
-                    <p>– Eficiência na gestão administrativa;</p>
-
-                    <p>– Promoção e incentivo à iniciação científica e à pesquisa;</p>
-
-                    <p>– Compromisso social com a inclusão;</p>
-
-                    <p>– Parcerias e cooperação com o mercado de trabalho;</p>
-
-                    <p>– Relacionamento contínuo e engajamento com os egressos, incentivando a educação continuada;</p>
-
-                    <P>– Respeito aos valores éticos e étnico-raciais, com promoção de acessibilidade física e
-                        pedagógica para pessoas com deficiência ou mobilidade reduzida;</P>
-
-                    <p>– Promoção de uma educação voltada para a convivência harmoniosa, baseada na tolerância, no
-                        respeito mútuo, na dignidade humana, na ética, na igualdade de direitos, e na educação para os
-                        Direitos Humanos, livre de preconceitos.</p>
-
-
-
-                </div>
-            </div>
+    <div class="row">
+        <div class="col-12">
+            <h3 class="text-center">PROJETO POLÍTICO DO CEEP</h3>
+            <iframe src="PROJETOPOLÍTICO.pdf" class="MostrarPdf"></iframe>
+            <hr>
         </div>
     </div>
+    <div class="row">
+        <div class="col-12">
+            <h3 class="text-center">REGIMENTO ESCOLAR DO CEEP</h3>
+            <iframe src="REGIMENTOESCOLARCEEP.pdf" class="MostrarPdf"></iframe>
+        </div>
     </div>
     </div>
 
